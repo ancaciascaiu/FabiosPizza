@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Contact Fabio`s Pizza</title>
+		<link rel="stylesheet" type="text/css" href="css/960_12_col_.css" />
+		<meta name="description" content="Address, telephone, directions, map for Fabio`s Pizza Cleveland" />
+		<meta name="keywords" content="contact, information, telephone, email, directions, map, Fabio`s Pizza Cleveland, Pizza Cleveland"
+	</head>
+
+
+	<body>
+		<div id="page" class="container_12 clearfix">
+<!--HEADER-->
+		    <div id="header">
+        	     <h1>Fabio`s Pizza Cleveland</h1>
+        	     <p>Address:<br />4203 Clark Ave<br />Cleveland OH 44109</p>
+        	     <p>Telephone: <a href="tel:216-939-7777">216-939-7777</a></p>
+        	     <p>Delivery/ Pick-up Hours:<br />Mon-Sat: 6:00 p.m.- 4:00 a.m.</p>
+        		 <div id="nav">
+        				<ul>
+        					<li><a href="index_about.html">About</a></li>
+        					<li><a href="index_menu.html">Menu</a></li>
+        					<li><a href="index_contact.html">Contact</a></li>
+        				</ul>
+        		 </div>
+        	</div>
+<!--How to reach us-->
+
+			<div="contact">
+				<h3>How to reach us:</h3>
+				<h4>Address:</h4>
+				<p>4203 Clark Ave</p>
+				<p>Cleveland OH 44109</p>
+				<h4>Delivery/Pick-up Hours:</h4>
+				<p>Mon-Sat: 6:00 p.m.- 4:00 a.m.</p>
+				<p>closed Sunday and Holidays</p>
+				<h4>Telephone:</h4>
+				<a href="tel:216-939-7777">216-939-7777</a>
+			</div>
+
+<!--Map-->
+
+			<div="iframe">
+				<iframe src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Fabio's+Pizza+Cleveland,+4203+Clark+Avenue,+Cleveland,+OH+44109&amp;aq=0&amp;sll=41.897572,-87.621106&amp;sspn=0.043763,0.090895&amp;vpsrc=6&amp;ie=UTF8&amp;hq=Fabio's+Pizza+Cleveland,&amp;hnear=4203+Clark+Ave,+Cleveland,+Cuyahoga,+Ohio+44109&amp;t=m&amp;ll=41.473474,-81.715965&amp;spn=0.057879,0.089951&amp;z=13&amp;output=embed"
+				width="525" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
+				</iframe>
+				<br />
+				<a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Fabio's+Pizza+Cleveland,+4203+Clark+Avenue,+Cleveland,+OH+44109&amp;aq=0&amp;sll=41.897572,-87.621106&amp;sspn=0.043763,0.090895&amp;vpsrc=6&amp;ie=UTF8&amp;hq=Fabio's+Pizza+Cleveland,&amp;hnear=4203+Clark+Ave,+Cleveland,+Cuyahoga,+Ohio+44109&amp;t=m&amp;ll=41.473474,-81.715965&amp;spn=0.057879,0.089951&amp;z=13" style="color: #0000ff; text-align: left;">View Larger Map</a>
+			</div>
+
+
+<!--Directions-->
+
+			<div="directions">
+				<p>Driving times:</p>
+				<p>Downtown: 15 min</p>
+				<p>Lakewood: 15 min</p>
+				<p>Cleveland Clinic: 25 min</p>
+			</div>
+
+		</div>
+	</body>
+</html>
+

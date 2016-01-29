@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Fabio`s Pizza MENU</title>
+		<link rel="stylesheet" type="text/css" href="css/960_12_col_.css" />
+		<meta name="description" content="This is Fabio`s Pizza Menu, which contains Fabio`s Original Italian Specialty Pizzas, Make your own Pizzas, Sandwiches, Salads, Pasta Dinners and Desserts" />
+		<meta name="keywords" content="Fabio`s Pizza, Menu, Pizza, Make your own, Italian Pizza, Specialty Pizza, Pizzas, Pasta, Dinner, Lunch, Wings, Sandwich, Sandwiches, Italian Sandwiches, Salads, Fresh, Freshly made, homemade pizza, Pizza Cleveland, Take out, Delivery, Cleveland delivery pizza" />
+
+	</head>
+	
+	<body>
+
+		<div id="page" class="container_12 clearfix">
+<!--HEADER-->
+        	<div id="header">
+            	<h1>Fabio`s Pizza Cleveland</h1>
+                <p>Address:<br />4203 Clark Ave<br />Cleveland OH 44109</p>
+                <p>Telephone: <a href="tel:216-939-7777">216-939-7777</a></p>
+                <p>Delivery/ Pick-up Hours:<br />Mon-Sat: 6:00 p.m.- 4:00 a.m.</p>
+                <div id="nav">
+                	<ul>
+                    	<li><a href="index_about.html">About</a></li>
+                        <li><a href="index_menu.html">Menu</a></li>
+                        <li><a href="index_contact.html">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+
+			<div id="slogan">
+				<h1>FABIO`S PIZZA MENU</h1>
+				<p>You can’t buy happiness, but you can order Fabio’s pizza, and it’s kind of the same thing...</p>
+			</div>
+
+<!--Make your own Pizza-->
+			<div id=make_your_own>
+				<h3>Make your own pizza</h3>
+				<p>All pizzas come in Thin, Thick or Regular Crust!</p>
+				<table>
+					<tr>
+						<th></th>
+						<th>Small</th>
+						<th>Medium</th>
+						<th>Large</th>
+						<th>Party Tray</th>
+					</tr>
+					<tr>
+						<th></th>
+						<td>6cut/9in</td>
+						<td>8cut/12in</td>
+						<td>12cut/16in</td>
+						<td>24 Sq. Cut</td>
+					</tr>
+					<tr>
+						<th>Plain</th>
+						<td>6.50</td>
+						<td>8.00</td>
+						<td>11.00</td>
+						<td>12.00</td>
+					</tr>
+					<tr>
+						<th>1 Topping</th>
+						<td>7.25</td>
+						<td>9.00</td>
+						<td>12.50</td>
+						<td>14.00</td>
+					</tr>
+					<tr>
+						<th>2 Toppings</th>
+						<td>8.00</td>
+						<td>10.00</td>
+						<td>14.00</td>
+						<td>16.00</td>
+					</tr>
+					<tr>
+						<th>3 Toppings</th>
+						<td>8.75</td>
+						<td>11.00</td>
+						<td>15.50</td>
+						<td>18.00</td>
+					</tr>
+					<tr>
+						<th>4 Toppings</th>
+						<td>9.50</td>
+						<td>12.00</td>
+						<td>16.00</td>
+						<td>20.00</td>
+					</tr>
+					<tr>
+						<th>Veggie</th>
+						<td>9.50</td>
+						<td>12.00</td>
+						<td>16.00</td>
+						<td>20.00</td>
+					</tr>
+					<tr>
+						<th>Hawaiian</th>
+						<td>9.50</td>
+						<td>12.00</td>
+						<td>16.00</td>
+						<td>20.00</td>
+					</tr>
+					<tr>
+						<th>Deluxe</th>
+						<td>10.25</td>
+						<td>13.00</td>
+						<td>17.50</td>
+						<td>22.00</td>
+					</tr>
+					<tr>
+						<th>Super Deluxe</th>
+						<td>11.00</td>
+						<td>14.00</td>
+						<td>19.00</td>
+						<td>24.00</td>
+					</tr>
+					<tr>
+						<th>Extra Toppings</th>
+						<td>0.75</td>
+						<td>1.00</td>
+						<td>1.50</td>
+						<td>2.00</td>
+					</tr>
+					<tr>
+						<th>Extra Cheese</th>
+						<td>1.00</td>
+						<td>1.50</td>
+						<td>2.00</td>
+						<td>2.50</td>
+					</tr>
+				</table>
+
+				<p>Available toppings:</p>
+				<p>Pepperoni, Sausage, Mushrooms, Green Peppers, Onions, Anchovies, Ground Meat, Ham, Salami, Bacon, Chicken, Black Olives, Fresh Garlic, Hot Peppers, Artichoke Hearts, Pineapple, Jalapenos</p>
+			</div>
+	<!--Pizza Menu Original Italian Specialty Pizzas-->
+			<div id="specialty_pizza">
+				<h3>Fabio`s Original Italian Specialty Pizzas</h3>
+				<p>All pizzas come in Thin, Thick or Regular Crust!</p>
+				<table>
+					<tr>
+						<th>Four Seasons</th>
+						<td colspan="4">Fabio`s Sauce, Ham, Black Olives, Artichoke Hearts, Parmesan Cheese & Melted Cheese</td>
+					</tr>
+					<tr>
+						<th></th>
+						<td>Small 9.00</td>
+						<td>Medium 11.50</td>
+						<td>Large 16.00</td>
+						<td>Party Tray 19.00</td>
+					</tr>
+					<tr>
+						<th>Margherita</th>
+						<td colspan="4">Fabio`s Sauce, Olive Oil, Parmesan Cheese & Melted Cheese</td>
+					</tr>
+					<tr>
+						<th></th>
+						<td>Small 8.00</td>
+						<td>Medium 9.50</td>
+						<td>Large 13.50</td>
+						<td>Party Tray 17.00</td>
+					</tr>
+					<tr>
+						<th>Foccacia (White Pizza)</th>
+						<td colspan="4">Olive Oil, Black Pepper, Fresh Garlic, Parmesan Cheese & Melted Cheese</td>
+					</tr>
+					<tr>
+						<th></th>
+						<td>Small 7.50</td>
+						<td>Medium 9.50</td>
+						<td>Large 13.00</td>
+						<td>Party Tray 16.50</td>
+					</tr>
+					<tr>
+						<th>Signature</th>
+						<td colspan="4">Fabio`s Sauce, Mushrooms, Fresh Garlic, Hot Peppers, Parmesan Cheese & Melted Cheese</td>
+					</tr>
+					<tr>
+						<th></th>
+						<td>Small 9.00</td>
+						<td>Medium 11.50</td>
+						<td>Large 16.00</td>
+						<td>Party Tray 19.00</td>
+					</tr>
+					<tr>
+						<th>Transylvania (Dracula)</th>
+						<td colspan="4">Ham, Fresh Garlic, Jalapeno,Pepperoni,Bacon, Mushrooms, Onion</td>
+					</tr>
+					<tr>
+						<th></th>
+						<td>Small 9.50</td>
+						<td>Medium 13.50</td>
+						<td>Large 18.00</td>
+						<td>Party Tray 21.00</td>
+					</tr>
+					<tr>
+						<th>BBQ Chicken</th>
+						<td colspan="4">Chicken, Provolone, BBQ Sauce</td>
+					</tr>
+					<tr>
+						<th></th>
+						<td>Small 7.50</td>
+						<td>Medium 10.50</td>
+						<td>Large 15.00</td>
+						<td>Party Tray 18.00</td>
+					</tr>
+					<tr>
+						<th>Meat Lover</th>
+						<td colspan="4">Ground Beef, Pepperoni, Bacon, Sausage, Ham</td>
+					</tr>
+					<tr>
+						<th></th>
+						<td>Small 10.00</td>
+						<td>Medium 13.00</td>
+						<td>Large 17.00</td>
+						<td>Party Tray 20.00</td>
+					</tr>
+					<tr>
+						<th>Chicken Bacon Ranch</th>
+						<td colspan="4"></td>
+					</tr>
+					<tr>
+						<th></th>
+						<td>Small 8.00</td>
+						<td>Medium 11.00</td>
+						<td>Large 15.00</td>
+						<td>Party Tray 18.00</td>
+					</tr>
+				</table>
+			</div>
+
+	<!--Sandwiches-->
+			<div id="sandwiches">
+				<h3>Sandwiches (10inch, includes Chips)</h3>
+				<table>
+					<tr>
+						<th>Sausage</th>
+						<td>8.00</td>
+						<th>Provolone</th>
+						<td>6.00</td>
+					</tr>
+					<tr>
+						<th>Italian Sub</th>
+						<td>7.00</td>
+						<th>BLT</th>
+						<td>7.00</td>
+					</tr>
+					<tr>
+						<th>Salami</th>
+						<td>7.00</td>
+						<th>Veggie Sub</th>
+						<td>7.00</td>
+					</tr>
+					<tr>
+						<th>Ham & Cheese</th>
+						<td>7.00</td>
+						<th>Chicken Sub</th>
+						<td>7.00</td>
+					</tr>
+					<tr>
+						<th>Meatball</th>
+						<td>7.00</td>
+						<th>Pepperoni</th>
+						<td>7.00</td>
+					</tr>
+					<tr>
+						<th>Tuna Melt</th>
+						<td>7.00</td>
+						<th></th>
+						<td></td>
+					</tr>
+				</table>
+			</div>
+	<!--Salads-->
+
+			<div id="salads">
+				<h3>Salads</h3>
+				<table>
+					<tr>
+						<th>Small Dinner Salad</th>
+						<td>3.00</td>
+						<th>Large Dinner Salad</th>
+						<td>5.00</td>
+					</tr>
+					<tr>
+						<th>Small Antipasta</th>
+						<td>3.50</td>
+						<th>Large Antipasta</th>
+						<td>6.00</td>
+					</tr>
+					<tr>
+						<th>Chef Salad</th>
+						<td>6.00</td>
+						<th>Chicken Salad</th>
+						<td>6.00</td>
+					</tr>
+					<tr>
+						<th>Extra Dressing (small)</th>
+						<td>0.50</td>
+						<th>Large Dressing</th>
+						<td>1.00</td>
+					</tr>
+				</table>
+			</div>
+	<!--Pasta Dinners-->
+
+			<div id="pasta">
+				<h3>Pasta Dinners</h3>
+				<p>Dinners include:</p>
+				<p>Salad with dressing, Roll, Butter, Parmesan Cheese</p>
+				<p>Choice of dressings:</p>
+				<p>Italian, Creamy Italian, Thousand Island, Ranch, Balsamic, French, Blue Cheese, Caesar</p>
+
+				<table>
+					<tr>
+						<th>Spaghetti Marinara</th>
+						<td>7.00</td>
+						<th>Rigatoni Marinara</th>
+						<td>7.00</td>
+					</tr>
+					<tr>
+						<th>Spaghetti Meat Sauce</th>
+						<td>8.00</td>
+						<th>Rigatoni Meat Sauce</th>
+						<td>8.00</td>
+					</tr>
+					<tr>
+						<th>Spaghetti Meatballs</th>
+						<td>8.00</td>
+						<th>Rigatoni Meatballs</th>
+						<td>8.00</td>
+					</tr>
+					<tr>
+						<th>Spaghetti Sausage</th>
+						<td>8.00</td>
+						<th>Rigatoni Sausage</th>
+						<td>8.00</td>
+					</tr>
+					<tr>
+						<th>Spaghetti Mushrooms</th>
+						<td>8.00</td>
+						<th>Rigatoni Mushrooms</th>
+						<td>8.00</td>
+					</tr>
+				</table>
+			</div>
+
+	<!--Side Orders-->
+
+			<div id="side_orders">
+				<h3>Side Orders</h3>
+				<table>
+					<tr>
+						<th>Garlic Bread</th>
+						<td>2.50</td>
+						<th>Bread Sticks(6pc) Sauce included</th>
+						<td>4.00</td>
+					</tr>
+					<tr>
+						<th>Garlic Bread & Cheese</th>
+						<td>3.00</td>
+						<th>Sausage</th>
+						<td>2.50</td>
+					</tr>
+					<tr>
+						<th>Pizza Sauce</th>
+						<td>1.50</td>
+						<th>Meat Sauce</th>
+						<td>2.50</td>
+					</tr>
+					<tr>
+						<th>Meatball</th>
+						<td>2.50</td>
+						<th>Rolls with Butter</th>
+						<td>1.00</td>
+					</tr>
+					<tr>
+						<th>Stuffed Jalapeno Poppers (5pc)</th>
+						<td>4.00</td>
+						<th>Chips</th>
+						<td>1.00</td>
+					</tr>
+				</table>
+			</div>
+
+	<!--Beverages & Desserts-->
+			<div id="beverages_desserts">
+				<h3>Beverages</h3>
+				<table>
+					<tr>
+						<th>Pop (Can)</th>
+						<td>$1.00</td>
+						<th>Spring Water</th>
+						<td>$1.00</td>
+					</tr>
+				</table>
+
+				<h3>Desserts</h3>
+				<table>
+					<tr>
+						<th>Pound Cake</th>
+						<td>$3.50</td>
+						<th>Blueberry Muffin</th>
+						<td>$3.50</td>
+						<th>Tiramisu</th>
+						<td>$3.50</td>
+					</tr>
+				</table>
+			</div>
+
+	<!--Jumbo Buffalo Wings-->
+			<div id="wings">
+				<h3>Jumbo Buffalo Wings</h3>
+				<p>Plain, Mild, BBQ, Hot, Honey BBQ, Garlic Parmesan and Honey Mustard</p>
+				<p>Ranch or Blue Cheese Dressing</p>
+				<p>1LB. Wings $7.00</p>
+			</div>
+
+	<!--Calzone Hot Pocket-->
+			<div id="calzone">
+				<h3>Calzone Hot Pocket</h3>
+				<p>Sauce Included</p>
+				<p>1 Topping $8.00</p>
+				<p>Add Extra Toppings for $1 each</p>
+			</div>
+		</div>
+
+	</body>
+</html>
+
+
+
+
+
+
+			
