@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>About Fabio`s Pizza</title>
+		<link rel="stylesheet" type="text/css" href="960_12_col_.css" />
+		<meta name="description" content="This page is about the history and practice of the family owned Fabio`s Pizza Cleveland" />
+		<meta name="keywords" content="pizza, family owned, quality, fresh, ingredients, delivery pizza, pick up pizza, pasta, subs, Fabio`s pizza sauce, fresh pizza sauce, Fabio`s Pizza Cleveland, Pizza Cleveland" />
+	</head>
+
+	<body>
+		<div id="page" class="container_12 clearfix">
+<!--HEADER-->
+			<div id="header">
+				<h1>Fabio`s Pizza Cleveland</h1>
+				<p>Address:<br />4203 Clark Ave<br />Cleveland OH 44109</p>
+				<p>Telephone: <a href="tel:216-939-7777">216-939-7777</a></p>
+				<p>Delivery/ Pick-up Hours:<br />Mon-Sat: 6:00 p.m.- 4:00 a.m.</p>
+				<div id="nav">
+					<ul>
+						<li><a href="index_about.html">About</a></li>
+						<li><a href="index_menu.html">Menu</a></li>
+						<li><a href="index_contact.html">Contact</a></li>
+					</ul>
+				</div>
+			</div>
+<!--MAIN TEXT ABOUT-->
+			<div>
+				<p>The ancient Romans have conquered the world with swords, the Italians with pizza and pasta. <br />
+			Fabio’s family owned pizza shop holds the authentic craft secrets that turn
+			the best quality, carefully selected ingredients, into an alchemy of savour,
+			taste and texture that will make you dream of sunny Sicily! <br /> Food to us,
+			is a reason to enjoy life with every bite, and we want you to enjoy the best
+			there is of Italian cuisine. Therefore we are now serving our
+			<a href="index_menu.html"> pizza, pasta, salads and sandwiches</a> in the greater Cleveland Area.</p>
+			</div>
+<!--FOOTER-->
+			<div id="slogan">Fabio’s Pizza. A simple taste of the beautiful life!
+			</div>
+		</div>
+
+	</body>
+</html>
+
+
+
